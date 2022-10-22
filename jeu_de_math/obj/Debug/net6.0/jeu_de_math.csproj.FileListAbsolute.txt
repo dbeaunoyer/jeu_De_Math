@@ -1,0 +1,15 @@
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\bin\Debug\net6.0\jeu_de_math.exe
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\bin\Debug\net6.0\jeu_de_math.deps.json
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\bin\Debug\net6.0\jeu_de_math.runtimeconfig.json
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\bin\Debug\net6.0\jeu_de_math.dll
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\bin\Debug\net6.0\jeu_de_math.pdb
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.csproj.AssemblyReference.cache
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.AssemblyInfoInputs.cache
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.AssemblyInfo.cs
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.csproj.CoreCompileInputs.cache
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.dll
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\refint\jeu_de_math.dll
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.pdb
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\jeu_de_math.genruntimeconfig.cache
+C:\Users\dbeau\source\repos\jeu_de_math\jeu_de_math\obj\Debug\net6.0\ref\jeu_de_math.dll
